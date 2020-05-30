@@ -2,4 +2,4 @@ Write a function that takes a string of characters as its first parameter, and t
 
 👇👇👇🤙
 
-[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/)](https://repl.it/github/isennkubilay/)
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/center_a_string_in_the_terminal)](https://repl.it/github/isennkubilay/center_a_string_in_the_terminal)
